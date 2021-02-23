@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'divwebapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b287549016144d208bb06db3df04f51a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d1d263dac26c4b36ad0e06528b3476cd }}
         package: \published\
